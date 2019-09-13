@@ -3,7 +3,7 @@ Backend course
 
 ## Running list
 - [x] Git basics
-- [ ] Unix Shell
+- [x] Unix Shell
 - [ ] VCS (hello gitty), GitHub and Collaboration
 - [ ] Language-specific Topics: Part I
 - [ ] Memory Management
@@ -21,11 +21,11 @@ Backend course
 [From kottans-frontend](https://github.com/antonenko-anton/kottans-frontend/blob/master/task-git-github-inro/impressions.md)
 
 #### Unix Shell
-[Impression](./task_unix_shell/impressions.md) <br>
-![quiz1](./task_unix_shell/quiz_1.png) <br>
-![quiz2](./task_unix_shell/quiz_2.png) <br>
-![quiz3](./task_unix_shell/quiz_3.png) <br>
-![quiz4](./task_unix_shell/quiz_4.png) <br>
+[Impression](github.com/antonenko-anton/kottans-backend/tree/master/task_unix_shell/impressions.md) <br>
+![quiz1](github.com/antonenko-anton/kottans-backend/tree/master/task_unix_shell/quiz_1.png) <br>
+![quiz2](github.com/antonenko-anton/kottans-backend/tree/master/task_unix_shell/quiz_2.png) <br>
+![quiz3](github.com/antonenko-anton/kottans-backend/tree/master/task_unix_shell/quiz_3.png) <br>
+![quiz4](github.com/antonenko-anton/kottans-backend/tree/master/task_unix_shell/quiz_4.png) <br>
 
 #### VCS (hello gitty), GitHub and Collaboration
 #### Language-specific Topics: Part I
